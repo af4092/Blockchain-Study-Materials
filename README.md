@@ -33,4 +33,10 @@ Blockchain Study Materials &amp; Resources
   <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/a71d1758-59c0-4c64-8d1d-c2b9671d2226" alt="Image">
 </p>
 
-- `DPoS`(Delegated Proof of Stake) - is a consensus algorithm used in blockchain networks to achieve agreement on the validity of transactions and create new blocks. It is a variation of the Proof of Stake (PoS) consensus mechanism. In a DPoS system, token holders in the blockchain network can vote for a limited number of delegates (often referred to as "witnesses" or "validators") who are responsible for validating transactions and creating new blocks. These delegates play a critical role in the network's operation and are elected based on the number of tokens they hold or the number of votes they receive from other token holders.
+- `DPoS`(Delegated Proof of Stake) - is a consensus algorithm used in blockchain networks to achieve agreement on the validity of transactions and create new blocks. It is a variation of the Proof of Stake (PoS) consensus mechanism. In a DPoS system, token holders in the blockchain network can vote for a limited number of delegates (often referred to as "witnesses" or "validators") who are responsible for validating transactions and creating new blocks. These delegates play a critical role in the network's operation and are elected based on the number of tokens they hold or the number of votes they receive from other token holders. A DPoS blockchain uses a voting system where the stakeholder community outsources its work to third parties. They regain the right to vote for a few delegates who will care for network security on their behalf. The delegates are also called witnesses, and they are responsible for achieving consensus. In doing so, they ensure the generation and validation of new blocks.
+
+<p align="center">
+  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/ab08bb03-2341-495a-b486-b60be5da5c62" alt="Image">
+</p>
+
+
