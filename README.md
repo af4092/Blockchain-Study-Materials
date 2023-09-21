@@ -25,4 +25,10 @@ Blockchain Study Materials &amp; Resources
 
 <p align="center">
   <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/db363307-228c-4b82-af13-14ec7c9c287d" alt="Image">
+</p>
 
+- `PoA`(Proof Of Authority) - is a consensus algorithm used in blockchain networks to secure and validate transactions. It's a variation of the more well-known Proof of Work (PoW) and Proof of Stake (PoS) algorithms. In a PoA consensus mechanism, validators or nodes are chosen based on their authority(reputation) or identity.
+
+<p align="center">
+  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/a71d1758-59c0-4c64-8d1d-c2b9671d2226" alt="Image">
+</p>
