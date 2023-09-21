@@ -15,3 +15,11 @@ Blockchain Study Materials &amp; Resources
   <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/ecca685f-c48a-449b-b2a9-fef910c7d063" alt="Image">
 </p>
 
+- `PoW`(Proof Of Work) -  is a blockchain consensus mechanism that incentivizes network validation by rewarding miners for adding computational power and difficulty to the network. It is a lottery system where miners increase their likelihood of receiving the reward the more power they add. In a PoW system, miners compete to solve complex mathematical problems associated with creating a new block. The first miner to successfully solve the problem gets to add a new block to the blockchain and is rewarded with a certain number of newly created cryptocurrency coins (e.g., bitcoins). This process is often referred to as `mining`.
+
+<p align="center">
+  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/abe372f4-cf69-4554-89c0-636a7558d13f" alt="Image">
+</p>
+
+
+
