@@ -21,5 +21,8 @@ Blockchain Study Materials &amp; Resources
   <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/abe372f4-cf69-4554-89c0-636a7558d13f" alt="Image">
 </p>
 
+- `PoS`(Proof Of Stake) - is a consensus algorithm used in blockchain networks to achieve agreement on the state of the system. Unlike Proof of Work (PoW), where participants (miners) solve complex mathematical problems to validate transactions and create new blocks, PoS relies on validators who hold and "stake" a certain amount of cryptocurrency to create new blocks and validate transactions.
 
+<p align="center">
+  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/db363307-228c-4b82-af13-14ec7c9c287d" alt="Image">
 
