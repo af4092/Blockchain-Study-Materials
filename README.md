@@ -39,4 +39,8 @@ Blockchain Study Materials &amp; Resources
   <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/ab08bb03-2341-495a-b486-b60be5da5c62" alt="Image">
 </p>
 
+- `dApp`(decentralized application) - is a software application that operates on a decentralized network (usually a blockchain) rather than a central server. It leverages the principles and features of blockchain technology to provide decentralized and distributed functionality.
 
+<p align="center">
+  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/1a4ea8b3-2f85-4794-9551-fb3b73fc21cf" alt="Image">
+</p>
