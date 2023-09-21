@@ -48,6 +48,5 @@ Blockchain Study Materials &amp; Resources
 - `ABCI`(Application BlockChain Interface) - The purpose is to provide a clean interface between any finite, deterministic state transition machine on one computer and the mechanics of a blockchain-based replication engine across multiple computers (aka consensus engine, which involves the consensus and networking layers).
 
 <p align="center">
-  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/0501400b-ab4e-4110-a5a9-835b5e8e3e7b" alt="Image">
+  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/6cb4e929-d4f0-460b-82c9-fec7a8c66d93" alt="Image">
 </p>
-
