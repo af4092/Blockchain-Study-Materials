@@ -52,3 +52,7 @@ Blockchain Study Materials &amp; Resources
 </p>
 
 - `MEV`(Maximum Extractable Value) - refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block.
+
+<p align="center">
+  <img src="https://github.com/af4092/Blockchain-Study-Materials/assets/24220136/52995e95-6321-4a4a-b4ec-27bc54688d61" alt="Image">
+</p>
